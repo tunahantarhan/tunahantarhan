@@ -1,28 +1,13 @@
-### Hi, I'm Tunahan!
+<h1 align="center">Hi 👋, I'm Tunahan</h1>
+<h3 align="center">🏕️ A university student who is looking forward to work as a Software Engineer & Developer in the close future!</h3>
 
-🏕️ A university student who is looking forward to work as a Software Engineer & Developer in the close future!
-⛰️ My current GitHub works will mostly be limited to my school projects for now, but I'm also willing to develop personal projects as I gain the required programming knowledge and time.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/tunahantarhann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tunahantarhann" height="30" width="40" /></a>
+</p>
 
-### Languages I Study:
-![python_logo](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/0cfcc03a-27a0-47e5-a376-0e43b86f41ac)
-![c_logo](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/5a3897b6-6e61-4bcd-a284-f5ddeed6ca7f)
-![cpp_logo](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/54071fb6-8c18-45bb-8c24-f98b13f098a7)
-![java_logo](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/5525362b-b468-4c51-a487-29eb060f8eb2)
-![html_logo](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/41a0bd1a-5c82-4750-a702-4aa49179ffb1)
-![css_logo](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/2d490ca9-a2af-4733-8124-1e6eb6930e3e)
-![javascript_logo](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/af0fb8b0-14d3-429d-ae1b-888e2f6c1e57)
-
-### Current Levels:
-Intermediate:
-![html_logo](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/41a0bd1a-5c82-4750-a702-4aa49179ffb1)
-![css_logo](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/2d490ca9-a2af-4733-8124-1e6eb6930e3e)
-![javascript_logo](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/af0fb8b0-14d3-429d-ae1b-888e2f6c1e57)
-
-Basic:
-![python_logo](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/0cfcc03a-27a0-47e5-a376-0e43b86f41ac)
-![c_logo](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/5a3897b6-6e61-4bcd-a284-f5ddeed6ca7f)
-![cpp_logo](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/54071fb6-8c18-45bb-8c24-f98b13f098a7)
-![java_logo](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/5525362b-b468-4c51-a487-29eb060f8eb2)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <!--
 **tunahantarhan/tunahantarhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
