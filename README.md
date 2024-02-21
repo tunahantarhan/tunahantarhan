@@ -13,6 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">- <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="gmail_logo" height="25" width="35" /> : tunahantarhan99@gmail.com
-<p align="left">- <a href="https://twitter.com/tunahantarhann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tunahantarhann" height="30" width="40" />: @tunahantarhann</a></p>
+<p align="left">-<a href="https://twitter.com/tunahantarhann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tunahantarhann" height="30" width="40" />: @tunahantarhann</a></p>
 
 
