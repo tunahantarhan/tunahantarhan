@@ -3,32 +3,26 @@
 🏕️ A university student who is looking forward to work as a Software Engineer & Developer in the close future!
 ⛰️ My current GitHub works will mostly be limited to my school projects for now, but I'm also willing to develop personal projects as I gain the required programming knowledge and time.
 
-## Languages I Study:
-<ul>
-  <li>![image](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/ead63610-365e-4878-a5cc-9483ba8eea89)</li>
-  <li>![image](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/fb1ba1f6-4a4b-4bbc-80d3-f555968405fe)</li>
-  <li>![image](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/24acde80-616f-4461-bc5f-0dbcc5a66d06)</li>
-  <li>![image](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/e798e184-6ed9-4685-977b-8e2a3c8e69d1)</li>
-  <li>![image](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/784fd933-2b2a-4d49-9fea-27802a930ac3)</li>
-  <li>![image](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/435bd606-c9b7-42e6-8248-4c2256fb0b88)</li>
-  <li>![image](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/f1374e4a-ceae-41b7-8a90-cc8b9554c3c1)</li>
-</ul>
+### Languages I Study:
+![python_logo](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/0cfcc03a-27a0-47e5-a376-0e43b86f41ac)
+![c_logo](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/5a3897b6-6e61-4bcd-a284-f5ddeed6ca7f)
+![cpp_logo](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/54071fb6-8c18-45bb-8c24-f98b13f098a7)
+![java_logo](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/5525362b-b468-4c51-a487-29eb060f8eb2)
+![html_logo](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/41a0bd1a-5c82-4750-a702-4aa49179ffb1)
+![css_logo](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/2d490ca9-a2af-4733-8124-1e6eb6930e3e)
+![javascript_logo](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/af0fb8b0-14d3-429d-ae1b-888e2f6c1e57)
 
-## Levels:
-# Intermediate:
-<ul>
-  <li>![image](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/784fd933-2b2a-4d49-9fea-27802a930ac3)</li>
-  <li>![image](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/435bd606-c9b7-42e6-8248-4c2256fb0b88)</li>
-  <li>![image](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/f1374e4a-ceae-41b7-8a90-cc8b9554c3c1)</li>
-</ul>
+### Current Levels:
+Intermediate:
+![html_logo](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/41a0bd1a-5c82-4750-a702-4aa49179ffb1)
+![css_logo](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/2d490ca9-a2af-4733-8124-1e6eb6930e3e)
+![javascript_logo](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/af0fb8b0-14d3-429d-ae1b-888e2f6c1e57)
 
-# Basic:
-<ul>
-  <li>![image](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/ead63610-365e-4878-a5cc-9483ba8eea89)</li>
-  <li>![image](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/fb1ba1f6-4a4b-4bbc-80d3-f555968405fe)</li>
-  <li>![image](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/24acde80-616f-4461-bc5f-0dbcc5a66d06)</li>
-  <li>![image](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/e798e184-6ed9-4685-977b-8e2a3c8e69d1)</li>
-</ul>
+Basic:
+![python_logo](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/0cfcc03a-27a0-47e5-a376-0e43b86f41ac)
+![c_logo](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/5a3897b6-6e61-4bcd-a284-f5ddeed6ca7f)
+![cpp_logo](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/54071fb6-8c18-45bb-8c24-f98b13f098a7)
+![java_logo](https://github.com/tunahantarhan/tunahantarhan/assets/84129081/5525362b-b468-4c51-a487-29eb060f8eb2)
 
 <!--
 **tunahantarhan/tunahantarhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
