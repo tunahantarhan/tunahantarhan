@@ -7,6 +7,4 @@
 
 <h3 align="left">Connect with me:</h3>
 - E-Mail : tunahantarhan99@gmail.com
-<p align="left">
-<a href="https://twitter.com/tunahantarhann" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tunahantarhann" height="30" width="40" />: @tunahantarhann</a>
-</p>
+<p align="left"><a href="https://twitter.com/tunahantarhann" target="blank">-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tunahantarhann" height="30" width="40" />: @tunahantarhann</a></p>
