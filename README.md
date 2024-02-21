@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Tunahan</h1>
-<h3 align="center">🏕️ A university student who is looking forward to be a future Software Engineer & Developer!</h3>
+<h3 align="center">🏕️ Just a student who is looking forward to be a future Software Engineer & Developer!</h3>
 <h4 align="center">⛰️ My current GitHub works will mostly be limited to my school projects for now, but I'm also willing to develop personal projects as I gain the required programming knowledge and time.</p>
 
 <h3 align="left">Languages:</h3>
