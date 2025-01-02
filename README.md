@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi! My name is Tunahan.<br><br>⛰️ I'm a third year licence student who is looking forward to be a software engineer and developer!<br><br>✉️ tunahantarhan99@gmail.com</h2>
+<h2 align="left">👋 Hi! My name is Tunahan.<br><br>⛰️ I'm a third year licence student who is looking forward to be a software engineer and developer!</h2><br><br><h3>✉️: tunahantarhan99@gmail.com</h3>
 
 ###
 
