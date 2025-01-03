@@ -1,7 +1,5 @@
-<h2>👋 Hi! My name is Tunahan.<br><br>⛰️ I'm a third year licence student who is looking forward to be a software engineer and developer!</h2>
+<h2 align="left">👋 Hi! My name is Tunahan.<br><br>⛰️ I'm a third year licence student who is looking forward to be a software engineer and developer!</h2>
 
-<h3>✉️: tunahantarhan99@gmail.com</h3>
-<hr>
 
 ###
 
@@ -60,7 +58,7 @@
 
 <div align="left">
   <a href="https://www.linkedin.com/in/tunahan-tarhan/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
   </a>
 </div>
 
